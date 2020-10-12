@@ -1,5 +1,3 @@
-Here is where I'll be uploading my bio
-Potential ideas-
-Where im from
-Portfolio
-My goals, aspirations
+My name is Aminata Drammeh, currently a Year Up student in the Software & Testing, Development track. 
+I am an aspiring DevOps/Software engineer, looking forward to a career path that has endless progression and oppurtunities.
+I enjoy problem solving, providing solutions, learning and getting creative with code.
